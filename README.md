@@ -4,6 +4,6 @@ pkg install bash
 gem install lolcat
 pkg install jq
 git clone https://github.com/hackingmenu/TOOLS.git
-cd BANNED-WA 
+cd  TIKTOK-BAN-V2
 unzip enc.zip
-bash main.sh
+bash banned-tiktok-v2.sh
