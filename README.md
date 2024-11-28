@@ -1,4 +1,5 @@
 pkg update && pkg upgrade 
+pkg install neofetch
 pkg install git
 pkg install bash 
 gem install lolcat
